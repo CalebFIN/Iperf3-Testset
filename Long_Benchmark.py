@@ -3,8 +3,8 @@ import time
 import json
 import re
 
-OUTPUT_FILE = "iperf_test_results.txt"
-MARKDOWN_FILE = "iperf_test_results.md"
+OUTPUT_FILE = "Long_Benchmark_results.txt"
+MARKDOWN_FILE = "Long_Benchmark_results.md"
 INTERVAL = 0.5
 MAX_PARALLEL = 8
 
