@@ -20,7 +20,7 @@ This repository contains Python scripts designed to automate network performance
 - **iPerf3** installed on your system
   - Installation instructions can be found [here](https://iperf.fr/iperf-download.php).
 - **Access to Public iPerf3 Servers**
-  - The scripts use publicly available servers listed in the `SERVERS` variable.
+  - The scripts use [publicly available servers](https://iperf3serverlist.net/) listed in the `SERVERS` variable.
 
 ## Installation
 
